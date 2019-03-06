@@ -1,0 +1,3 @@
+buku;id_buku;judul_buku;tahun_terbit;penerbit
+penciptaan_buku;id_buku;id_author
+author;id_author;nama_author;nama_pena
